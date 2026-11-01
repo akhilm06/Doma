@@ -13,7 +13,6 @@ Specialists devote their careers to collecting and annotating this evidence, but
 
 Example screenshot from old basic prototype below (rebuild in progress). Consider it a stale artifact, and this repository to be the source of truth. 
 
-
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
 
 <br>Old repo: https://github.com/akhilm06/Lacuna-OLD.
@@ -27,37 +26,41 @@ Example screenshot from old basic prototype below (rebuild in progress). Conside
 - ING creates a visceral display of how much of a corpus has been lost, making the absences the focus.
 
 ## Lost Work Profile Synthesis
-- Profiles are written to be deliberately dry and uninsightful (like Wikipedia).
-- Profiles are written to be holistic and nuanced, containing an uncertainty system.
+- Profiles are written to be deliberately dry and encyclopedic, like Wikipedia, with an uncertainty system. 
 - Profiles include introductions, concepts, contested, et cetera.
+- Profiles include terse interpretation sections, drawn from a holistic understanding of the work, and surrounding context drawn from Wikipedia.
+  - Apart from this section, profile synthesis is formed solely from hard evidence. 
 - Profile generation includes forced citations and verification loop.
-- Profiles include transparent decision log, used both by human and AI.  
+- Profiles include transparent decision log, used both by human and AI (see data backbone).
 
+## Data Backbone (The Real Product)
+- Quellenforschung is a centuries old field dedicated to source tracing. I don't expect to have an immediate, neat answer.
+- Evidence contains taxonomy, provenance, and rubric scoring.
+- Scoring includes transparent decision log, used both by human and AI.
+  - Decision logs record written justifications of any informed choice.
+  - Decision logs consult and cite Wikipedia articles, and from which source that claim is derived, rather than relying on model training data. 
+  - Decisions can be flagged for human review.
+    
 ## Philosophy
-- Commitment to factuality.
-- Simplicity.
-- Transparency.
-- Accessibility. 
-- Delightful and intuitive user experience.
-- Provide real intellectual value.
+- Commitment to factuality and transparency.
+- Commitment to delightful and intuitive user experience.
+- Commitment to provide real intellectual value.
 
-## Benefits
-- Increased accessibility of domain to students, autodidacts, and curious people.
-- Valuable open data layer (backbone of the project). Supports independent research, future digital humanities projects. 
-- Less laborious and time consuming to deploy.
+## Additional Benefits
+- Increased accessibility of domain to students, autodidacts, and curious people. No paywall.
+- Valuable open data layer. Supports independent research, future digital humanities projects. 
+- Less laborious and time consuming to create and deploy. 
 - Greater surface area of knowledge.
-- Modern and intuitive user experience.
-- Fully free and open source. 
 
 ## Risks
-- Fragment epistemology (scoring evidence against criteria, leveraging AI’s nondeterministic logic).
-- Drift and error (verification loop, decision log).
+- Fragment epistemology (taxonomy, provenance, scoring against criteria).
+- Compounding drift and error (synthesis, verification loop, decision log, forced citations).
 - Scholarly trust (dispositionally conservative attitude, transparency).
 - Navigation at scale (filters, search, clustering).
 
 ## Roadmap 
 - Milestone one (minimum lovable product):
-  - Month one (data foundations/backbone):
+  - Month one (data foundations):
     - Schema, evidence taxonomy, source provenance.
     - Evidence ingestion, deduplication, and evaluation workflow.
     - Research and read. Gather set of hand-picked evidence. Establish written culture.
@@ -102,17 +105,13 @@ Coming Soon.
 
 I came up with the concept for Lacuna about six months ago. I was listening to some podcast, and offhand, the host or guest mentioned how the majority of ancient literature has been lost to history. This induced a deep level of sadness within me, and, as I continued to dwell on that feeling, it bloomed into the concept for Lacuna. 
 
-Now, half a year later, I still can't seem to get Lacuna out of my head, and I'd like to dedicate a portion of my youth working on a project that contributes something of real intellectual value.  
+Now, half a year later still, I just can't seem to get Lacuna out of my head, and I'd like to dedicate a portion of my youth working on a project that contributes something of real intellectual value.  
 
-### About Me (born 3/14/2006)
+### About Me
 
-I attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. My living costs are low, so all funds go directly into the work. 
+I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. My living costs are low, so all funds go directly into the work. 
 
 Email Me: akhil.muthyala@outlook.com
-
-
-
-
 
  
 
