@@ -87,10 +87,7 @@ Example screenshot from old basic prototype below (rebuild in progress). Conside
     - Run outreach on professors, teachers, provide simple lesson plan.
     - Make dev log videos.
     - Make public documentation.
-- After:
-  - Assess progress.
-  - Expand to Latin.
-  - Progress to less trodden ground (Sanskrit, Hebrew, and more).  
+  - Deliverable: finish tragedians.  
 
 ## Built On
 - Perseus Digital Library
