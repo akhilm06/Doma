@@ -106,7 +106,7 @@ Now, half a year later, I still can't seem to get Lacuna out of my head, and I'd
 
 I attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. My living costs are low, so all funds go directly into the work. 
 
-
+Email Me: akhil.muthyala@outlook.com
 
 
 
