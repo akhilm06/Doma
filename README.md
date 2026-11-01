@@ -12,10 +12,12 @@ Specialists devote their careers to collecting and annotating this evidence, but
 ## Old Lacuna
 
 Example screenshot from old basic prototype below (rebuild in progress). Consider it a stale artifact, and this repository to be the source of truth. 
-<br>Old repo: https://github.com/akhilm06/Lacuna-OLD.
-<br>Old demo: https://lacuna-two.vercel.app/.
+
 
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
+
+<br>Old repo: https://github.com/akhilm06/Lacuna-OLD.
+<br>Old demo: https://lacuna-two.vercel.app/.
 
 ## Interactive Node Graph (ING)
 - ING refers to lost works as ghost works, represented in a pale blue color with dashed border.
