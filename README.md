@@ -7,7 +7,9 @@
 ## What is Lacuna?
 Most of ancient literature has been lost to history. For example, we know Aristotle wrote an estimated 200 works, but we only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
 
-Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: Brill's New Jacoby). A useful analogy is the difference between a book on the industrial revolution versus a Wikipedia article on it -- both serve useful functions, and are in fact complementary. Lacuna aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
+Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: Brill's New Jacoby). A useful analogy is the difference between a book on the industrial revolution versus a Wikipedia article on it -- both serve useful functions, and are in fact complementary.
+
+Lacuna aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
 
 ## Old Lacuna
 
