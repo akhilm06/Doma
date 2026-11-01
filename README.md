@@ -4,18 +4,18 @@
 
 ### Pre-alpha; seeking funding. 
 
-<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
-
-## Old Lacuna
-
-Example screenshot from old basic prototype (rebuild in progress). Consider it a stale artifact, and this repository to be the source of truth. 
-<br>Old repo: https://github.com/akhilm06/Lacuna-OLD.
-<br>Old demo: https://lacuna-two.vercel.app/.
-
 ## What is Lacuna?
 Most of ancient literature has been lost to history. For example, we know Aristotle wrote an estimated 200 works, but we only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
 
 Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: Brill's New Jacoby). A useful analogy is the difference between a book on the industrial revolution versus a Wikipedia article on it -- both serve useful functions, and are in fact complementary. Lacuna aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
+
+## Old Lacuna
+
+Example screenshot from old basic prototype below (rebuild in progress). Consider it a stale artifact, and this repository to be the source of truth. 
+<br>Old repo: https://github.com/akhilm06/Lacuna-OLD.
+<br>Old demo: https://lacuna-two.vercel.app/.
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
 
 ## Interactive Node Graph (ING)
 - ING refers to lost works as ghost works, represented in a pale blue color with dashed border.
