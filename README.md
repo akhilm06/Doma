@@ -63,11 +63,6 @@ Old demo: https://lacuna-two.vercel.app/.
 - Evidence is sourced solely from public-domain and openly licensed material.
 - Modern editions (for example: Radt, TrGF) are used as an index for sourcing evidence. They are cited, not reproduced.
 - Translations are public domain where available. Otherwise machine-assisted and labeled as such.
-  
-## Philosophy
-- Commitment to factuality and transparency.
-- Commitment to delightful and intuitive user experience.
-- Commitment to providing real intellectual value.
 
 ## Additional Benefits
 - Increased accessibility of domain to autodidacts, students, and curious people. No paywall.
