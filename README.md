@@ -11,14 +11,6 @@ Specialists devote their careers to collecting and annotating this evidence, but
 
 Lacuna aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
 
-## What Lacuna Isn't
-Lacuna is primarily a conceptual innovation enabled by technological innovation. It is not:
-
-- Reconstructions in the voice of authors.
-- Speculation presented as fact.
-- Replacement for specialist scholarship.
-- A traditional startup. 
-
 ## Related Work
 - Specialist fragment editions: Tragicorum Graecorum Fragmenta (TrGF), Brill's New Jacoby.
   - Dense, narrow, and often paywalled or difficult to access. 
@@ -36,6 +28,14 @@ Lacuna is primarily a conceptual innovation enabled by technological innovation.
   - Strong for famous lost works, otherwise sparse or nonexistent.
 
 None turn the evidence for antiquity's lost works into accessible, cited, living profiles. Lacuna does.
+
+## What Lacuna Isn't
+Lacuna is primarily a conceptual innovation enabled by technological innovation. It is not:
+
+- Reconstructions in the voice of authors.
+- Speculation presented as fact.
+- Replacement for specialist scholarship.
+- A traditional startup. 
 
 ## Old Lacuna
 
