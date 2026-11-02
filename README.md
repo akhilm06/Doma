@@ -19,6 +19,13 @@ Lacuna is primarily a conceptual innovation enabled by technological innovation.
 - Replacement for specialist scholarship.
 - A traditional startup. 
 
+## Related Work
+- Specialist fragment editions: Tragicorum Graecorum Fragmenta, Brill's New Jacoby.
+- Leipzig Open Fragmentary Texts Series.
+- Ithaca, Aeneas, Vesuvius Challenge.
+- Lost Plays Database (closest analog).
+- Wikipedia.
+
 ## Old Lacuna
 
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
