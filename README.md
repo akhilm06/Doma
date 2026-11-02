@@ -37,7 +37,7 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
 - ING visually displays how much of a lost work is known through node opacity and size.
 - ING creates a visceral display of how much of a corpus has been lost, making the gaps, the lacunae, the focal point.
 
-## Work Profile Synthesis
+## Lost Work Profile Synthesis
 - Profiles are written to be deliberately dry and encyclopedic, like Wikipedia, with an uncertainty system. 
 - Profiles include introductions, concepts, contested, et cetera. Profile length scales with evidence. Thin profiles are celebrated.  
 - Profiles include terse interpretation sections, drawn from a holistic understanding of the work, and surrounding context drawn from Wikipedia.
@@ -58,7 +58,6 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
 - Each piece of evidence carries license, taxonomy, provenance, and rubric scoring.
 - Modern editions (for example: Radt, TrGF) are used as an index for sourcing evidence. They are cited, not reproduced.
 - Translations are public domain where available. Otherwise machine-assisted and labeled as such.
-- When public-domain editions are outdated, Lacuna states so.
   
 ## Philosophy
 - Commitment to factuality and transparency.
