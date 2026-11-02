@@ -2,7 +2,7 @@
 
 ## An open-source atlas of synthesized lost work profiles from classical antiquity. 
 
-Pre-alpha; seeking funding. 
+Pre-alpha; seeking funding. Will list titles after cycle ends. 
 
 ## What is Lacuna?
 Most of ancient literature has been lost to history. For example, Aristotle wrote an estimated 200 works. We only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
@@ -110,6 +110,12 @@ Old demo: https://lacuna-two.vercel.app/.
   - Timeline format.
   - Frames: preset filters of ING users can explore.
   - Community can submit evidence and receive recognition for contribution.
+
+## Milestone One Tech Stack
+- Website: Next.js + TypeScript.
+- Data: JSON files in repo, with Zod validation.
+- Pipeline: Python + Claude API.
+- Hosting: Vercel.
 
 ## Built On
 - Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
