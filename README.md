@@ -52,6 +52,7 @@ Old demo: https://lacuna-two.vercel.app/.
 
 ## Data Backbone
 - Quellenforschung is a centuries-old field dedicated to source tracing. I don't expect to have an immediate, neat answer.
+- Each piece of evidence carries license, taxonomy, provenance, and rubric scoring.
 - Scoring includes transparent decision log, used both by human and AI.
   - Decision logs record written justifications of any informed choice with links to relevant evidences.
   - When necessary, decision logs additionally consult and cite Wikipedia articles for germane historical context, while also evaluating and pointing to the origin of that claim, rather than relying solely on model training data.
@@ -60,7 +61,6 @@ Old demo: https://lacuna-two.vercel.app/.
 ## Sourcing and Copyright
 - Evidence is curated and entered by hand. AI-drafted fields are confirmed by a human.
 - Evidence is sourced solely from public-domain and openly licensed material.
-- Each piece of evidence carries license, taxonomy, provenance, and rubric scoring.
 - Modern editions (for example: Radt, TrGF) are used as an index for sourcing evidence. They are cited, not reproduced.
 - Translations are public domain where available. Otherwise machine-assisted and labeled as such.
   
