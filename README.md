@@ -2,7 +2,7 @@
 
 ## An open-source atlas of synthesized lost work profiles from classical antiquity. 
 
-Pre-alpha; seeking funding. Will list titles after cycle ends. 
+Pre-alpha; seeking funding. 
 
 ## What is Lacuna?
 Most of ancient literature has been lost to history. For example, Aristotle wrote an estimated 200 works. We only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
