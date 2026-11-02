@@ -34,7 +34,7 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
   - Stray work (title unknown, author known).
   - Adespota (title and author unknown).
 - ING visually displays edges to represent relation (direct quote, commentary, et cetera).
-- ING visually displays how much of a lost work is known through node opacity and size. 
+- ING visually displays how much of a lost work is known through node opacity and size.
 - ING creates a visceral display of how much of a corpus has been lost, making the absences the focus.
 
 ## Work Profile Synthesis
@@ -48,8 +48,8 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
 ## Data Backbone
 - Quellenforschung is a centuries-old field dedicated to source tracing. I don't expect to have an immediate, neat answer.
 - Scoring includes transparent decision log, used both by human and AI.
-  - Decision logs record written justifications of any informed choice.
-  - Decision logs consult and cite Wikipedia articles for additional historical context when needed, while also evaluating the origin of that claim, rather than relying solely on model training data.
+  - Decision logs record written justifications of any informed choice with links to relevant evidences.
+  - When necessary, decision logs additionally consult and cite Wikipedia articles for germane historical context, while also evaluating and pointing to the origin of that claim, rather than relying solely on model training data.
   - Decisions can be flagged for human review.
 
 ## Sourcing and Copyright
