@@ -140,7 +140,9 @@ Now, half a year later still, I just can't seem to get Lacuna out of my head, an
 
 ### About Me
 
-I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. My living costs are low, so all funds go directly into the work. 
+I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time.
+
+My living costs are low, so all funds go directly into the work. 
 
 Email Me: akhil.muthyala@outlook.com
 
