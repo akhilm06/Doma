@@ -35,7 +35,7 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
   - Adespota (title and author unknown).
 - ING visually displays edges to represent relation (direct quote, commentary, et cetera).
 - ING visually displays how much of a lost work is known through node opacity and size.
-- ING creates a visceral display of how much of a corpus has been lost, making the absences the focus.
+- ING creates a visceral display of how much of a corpus has been lost, making the gaps, the lacunae, the focal point.
 
 ## Work Profile Synthesis
 - Profiles are written to be deliberately dry and encyclopedic, like Wikipedia, with an uncertainty system. 
@@ -88,6 +88,7 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
     - Deliverable: working data set and public methodology document. 
   - Month two (profile synthesis):
     - Profile synthesis workflow: structure/sections, decision log, forced citations, et cetera.
+    - Stable, citable versions.
     - Evaluations.
     - Deliverable: Aeschylus's profiles and published evaluation results. 
   - Month three (ING and launch):
@@ -101,6 +102,9 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
   - Milestone one deliverable: public alpha covering Aeschylus.
 - Milestone two:
   - Milestone two deliverable: public alpha covering all three tragedians.
+- Future deliverables:
+  - Timeline format.
+  - Frames: preset filters of ING users can explore.
 
 ## Built On
 - Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
