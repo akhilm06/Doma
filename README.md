@@ -7,7 +7,7 @@ Pre-alpha; seeking funding.
 ## What is Lacuna?
 Most of ancient literature has been lost to history. For example, Aristotle wrote an estimated 200 works. We only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
 
-Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: Brill's New Jacoby). A useful analogy is the difference between a book on the industrial revolution and a Wikipedia article on it -- both serve useful functions, and are in fact complementary.
+Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: TrGF). A useful analogy is the difference between a book on the industrial revolution and a Wikipedia article on it -- both serve useful functions, and are in fact complementary.
 
 Lacuna aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
 
@@ -20,11 +20,22 @@ Lacuna is primarily a conceptual innovation enabled by technological innovation.
 - A traditional startup. 
 
 ## Related Work
-- Specialist fragment editions: Tragicorum Graecorum Fragmenta, Brill's New Jacoby.
-- Leipzig Open Fragmentary Texts Series.
+- Specialist fragment editions: Tragicorum Graecorum Fragmenta (TrGF), Brill's New Jacoby.
+  - Dense, narrow, and often paywalled or difficult to access. 
+- Leipzig Open Fragmentary Texts Series (LOFTS), Digital Fragmenta Historicorum Graecorum (DFHG).
+  - Open digital editions that link fragments to their source texts. 
+- FragTrag (Greek Fragmentary Tragedians Online).
+  - Open edition of 45 minor tragedians. 
+- papyri.info, Digital Corpus of Literary Papyri (DCLP).
+  - Open papyrus transcriptions. Raw evidence.
 - Ithaca, Aeneas, Vesuvius Challenge.
-- Lost Plays Database (closest analog).
+  - AI that restores lost text. 
+- Lost Plays Database.
+  - Lacuna’s closest analog. Lacuna applies its model to antiquity.
 - Wikipedia.
+  - Strong for famous lost works, otherwise sparse or nonexistent.
+
+None turn the evidence for antiquity's lost works into accessible, cited, living profiles. Lacuna does.
 
 ## Old Lacuna
 
