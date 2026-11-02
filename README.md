@@ -12,17 +12,22 @@ Specialists devote their careers to collecting and annotating this evidence, but
 Lacuna aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
 
 ## What Lacuna Isn't
-- Reconstructions in the voice of author.
+Lacuna is primarily a conceptual innovation enabled by technological innovation. It is not:
+
+- Reconstructions in the voice of authors.
 - Speculation presented as fact.
 - Replacement for specialist scholarship.
+- A traditional startup. 
 
 ## Old Lacuna
 
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
 
 Screenshot from old basic prototype above (rebuild in progress). Consider it a stale artifact, and assume this repo as source of truth. 
-<br>Old repo: https://github.com/akhilm06/Lacuna-OLD.
-<br>Old demo: https://lacuna-two.vercel.app/.
+
+Old repo: https://github.com/akhilm06/Lacuna-OLD.
+
+Old demo: https://lacuna-two.vercel.app/.
 
 ## Interactive Node Graph (ING)
 - ING represents lost works in a pale blue color with dashed border.
