@@ -104,6 +104,7 @@ Screenshot from old basic prototype above (rebuild in progress). Consider it a s
 - Future deliverables:
   - Timeline format.
   - Frames: preset filters of ING users can explore.
+  - Community submits evidence.
 
 ## Built On
 - Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
