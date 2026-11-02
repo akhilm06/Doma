@@ -2,7 +2,7 @@
 
 ## An open-source atlas of synthesized lost work profiles from classical antiquity. 
 
-### Pre-alpha; seeking funding. 
+Pre-alpha; seeking funding. 
 
 ## What is Lacuna?
 Most of ancient literature has been lost to history. For example, Aristotle wrote an estimated 200 works. We only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
@@ -18,17 +18,16 @@ Lacuna aims to serve the latter functionality, harnessing modern software and AI
 
 ## Old Lacuna
 
-Example screenshot from old basic prototype below (rebuild in progress). Consider it a stale artifact, and this repository to be the source of truth. 
-
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
 
+Screenshot from old basic prototype above (rebuild in progress). Consider it a stale artifact, and assume this repo as source of truth. 
 <br>Old repo: https://github.com/akhilm06/Lacuna-OLD.
 <br>Old demo: https://lacuna-two.vercel.app/.
 
 ## Interactive Node Graph (ING)
 - ING represents lost works in a pale blue color with dashed border.
 - ING represents known works in an olive green color with solid border.
-- ING displays ghost works and known works together, enabling spatial navigation. Click to enter.
+- ING displays known and lost works together, enabling spatial navigation. Click to enter.
 - ING contains four types of lost works (each will be made visually distinct):
   - Ghost work (title and author known).
   - Orphan work (title known, author unknown).
@@ -40,9 +39,9 @@ Example screenshot from old basic prototype below (rebuild in progress). Conside
 
 ## Work Profile Synthesis
 - Profiles are written to be deliberately dry and encyclopedic, like Wikipedia, with an uncertainty system. 
-- Profiles include introductions, concepts, contested, et cetera. Thin profiles are a feature, but less emphasized.
+- Profiles include introductions, concepts, contested, et cetera. Profile length scales with evidence. Thin profiles are celebrated.  
 - Profiles include terse interpretation sections, drawn from a holistic understanding of the work, and surrounding context drawn from Wikipedia.
-  - Apart from this section, profile synthesis displayed is formed only from hard evidence. 
+  - Apart from interpretation and context, profiles draw solely from hard evidence.
 - Profile generation includes forced citations for every claim and a verification loop.
 - Profiles include transparent decision log, used both by human and AI (see data backbone).
 
@@ -53,12 +52,14 @@ Example screenshot from old basic prototype below (rebuild in progress). Conside
   - Decision logs consult and cite Wikipedia articles for additional historical context when needed, while also evaluating the origin of that claim, rather than relying solely on model training data.
   - Decisions can be flagged for human review.
 
-## Sources and Copyright
-The standard editions covering the tragedians are under copyright and inaccessible to Lacuna. Instead:
+## Sourcing and Copyright
+- Evidence is curated and entered by hand. AI-drafted fields are confirmed by a human.
 - Evidence is sourced solely from public-domain and openly licensed material.
 - Each piece of evidence carries license, taxonomy, provenance, and rubric scoring.
+- Modern editions (for example: Radt, TrGF) are used as an index for sourcing evidence. They are cited, not reproduced.
 - Translations are public domain where available. Otherwise machine-assisted and labeled as such.
-    WILL COMPLETE COPY RIGHT STUFF TOMMOROW beginning hand made, then delegated to AI. 
+- When public-domain editions are outdated, Lacuna states so.
+  
 ## Philosophy
 - Commitment to factuality and transparency.
 - Commitment to delightful and intuitive user experience.
@@ -66,13 +67,14 @@ The standard editions covering the tragedians are under copyright and inaccessib
 
 ## Additional Benefits
 - Increased accessibility of domain to autodidacts, students, and curious people. No paywall.
-- Valuable open data layer. Supports independent research, future digital humanities projects. 
+- Valuable open data layer with concordance table. Supports independent research, future digital humanities projects. 
 - Faster to build and expand surface area of knowledge. Exists as a complement to specialist resources which require years of expert labor and time.
 
 ## Risks
 - Fragment epistemology (taxonomy, provenance, scoring against criteria).
 - Compounding drift and error (synthesis, verification loop, decision log, forced citations).
 - Scholarly trust (maintain dispositionally conservative attitude, transparency).
+- Copyrighted materials access (open sources only for evidence, outdated materials flagged). 
 - Navigation at scale (filters, search, clustering).
 
 ## Roadmap 
@@ -85,30 +87,28 @@ The standard editions covering the tragedians are under copyright and inaccessib
     - Run outreach on classicists for advisor role and join community. 
     - Deliverable: working data set and public methodology document. 
   - Month two (profile synthesis):
-    - Profile synthesis workflow: structure/sections, decision log, forced citations, et cetera. 
-    - Pilot on one author.
+    - Profile synthesis workflow: structure/sections, decision log, forced citations, et cetera.
     - Evaluations.
-    - Deliverable: about 80 Aeschylus profiles and published evaluation results. 
-  - Month three (ING):
+    - Deliverable: Aeschylus's profiles and published evaluation results. 
+  - Month three (ING and launch):
     - Build the interactive node graph.
     - Add search, filter, and error flag functionality.
-    - Expand to Sophocles and Euripides.
-    - Upload short explainer video.
-    - Get project production ready.
-    - Upload online to Hacker News, Less Wrong, et cetera.
-    - Run outreach on intellectuals who would value Lacuna. 
+    - Explainer video and documents.
+    - Launch on Hacker News, LessWrong, et cetera.
   - Concurrently:
     - Run outreach on professors, teachers, provide simple lesson plan.
-    - Make dev log videos.
-    - Make public documentation.
-  - Milestone one deliverable: a public alpha covering all three tragedians.
+    - Continue to iterate on previously implemented features. 
+  - Milestone one deliverable: public alpha covering Aeschylus.
+- Milestone two:
+  - Milestone two deliverable: public alpha covering all three tragedians.
 
 ## Built On
-- Public-domain fragment editions (Nauck, Pearson, Smyth)
-- Perseus Digital Library and First1KGreek
-- papyri.info
-- CLTK (Classical Language Toolkit)
-- react-force-graph
+- Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
+- Public-domain fragment editions (Nauck, Pearson, Smyth).
+- Perseus Digital Library and First1KGreek.
+- papyri.info.
+- CLTK (Classical Language Toolkit).
+- react-force-graph.
 
 ## License
 - Code: MIT
