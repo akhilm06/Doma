@@ -112,7 +112,7 @@ Old demo: https://lacuna-two.vercel.app/.
 - Milestone two:
   - Milestone two deliverable: public alpha covering all three tragedians.
 - Future deliverables:
-  - Timeline format.
+  - Timeline and shelf format.
   - Frames: preset filters of ING users can explore.
   - Community can submit evidence and receive recognition for contribution.
 
