@@ -160,7 +160,6 @@ Email Me: akhil.muthyala@outlook.com
 
 PS: Just started learning Latin, but looks like I'm swapping to Ancient Greek :/.
 
- 
-
+i use omarchy btw
 
 
