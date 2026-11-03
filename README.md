@@ -2,6 +2,8 @@
 
 ## An open-source atlas of synthesized lost work profiles from classical antiquity. 
 
+Doma (δῶμα): Greek for house.
+
 Pre-alpha; seeking funding. 
 
 ## What is Doma?
@@ -20,7 +22,7 @@ Doma is primarily a conceptual innovation enabled by technological innovation. I
 
 ## Related Work
 - Specialist fragment editions: Tragicorum Graecorum Fragmenta (TrGF), Brill's New Jacoby.
-  - Dense, narrow, and often paywalled or difficult to access. 
+  - Dense, narrow, often paywalled or difficult to access, built on years of expert labor.
 - Leipzig Open Fragmentary Texts Series (LOFTS), Digital Fragmenta Historicorum Graecorum (DFHG).
   - Open digital editions that link fragments to their source texts. 
 - FragTrag (Greek Fragmentary Tragedians Online).
@@ -33,8 +35,10 @@ Doma is primarily a conceptual innovation enabled by technological innovation. I
   - Doma’s closest analog. Doma applies its model to antiquity.
 - Wikipedia.
   - Strong for famous lost works, otherwise sparse or nonexistent.
+    
+None I found turns evidence for antiquity's lost works into cited, living profiles.
 
-None turn the evidence for antiquity's lost works into accessible, cited, living profiles. Doma does.
+Doma does, built on top of a novel open data layer and concordance table that supports independent research and future digital humanities projects, while also keeping the knowledge work accessible to non-scholars: autodidacts, students, and curious people.
 
 ## Old Doma (Lacuna)
 
@@ -81,18 +85,6 @@ Old demo: https://lacuna-two.vercel.app/.
 - Modern editions (for example: Radt, TrGF) are used as an index for sourcing evidence. They are cited, not reproduced.
 - Translations are public domain where available. Otherwise machine-assisted and labeled as such.
 
-## Additional Benefits
-- Increased accessibility of domain to autodidacts, students, and curious people. No paywall.
-- Valuable open data layer with concordance table. Supports independent research, future digital humanities projects. 
-- Faster to build and expand surface area of knowledge. Exists as a complement to specialist resources which require years of expert labor and time.
-
-## Risks
-- Fragment epistemology (taxonomy, provenance, scoring against criteria).
-- Compounding drift and error (synthesis, verification loop, decision log, forced citations).
-- Scholarly trust (maintain dispositionally conservative attitude, transparency).
-- Copyrighted materials access (open sources only for evidence, outdated materials flagged). 
-- Navigation at scale (filters, search, clustering).
-
 ## Roadmap 
 - Milestone one (minimum lovable product):
   - Month one (data foundations):
@@ -114,7 +106,8 @@ Old demo: https://lacuna-two.vercel.app/.
     - Launch on Hacker News, LessWrong, et cetera.
   - Concurrently:
     - Run outreach on professors, teachers, provide simple lesson plan.
-    - Continue to iterate on previously implemented features. 
+    - Continue to iterate on previously implemented features.
+    - Learn Ancient Greek.
   - Milestone one deliverable: public alpha covering Aeschylus.
 - Milestone two:
   - Milestone two deliverable: public alpha covering all three tragedians.
@@ -122,6 +115,13 @@ Old demo: https://lacuna-two.vercel.app/.
   - Timeline format.
   - Frames: preset filters of ING users can explore.
   - Community can submit evidence and receive recognition for contribution.
+
+## Main Risks
+- Fragment epistemology.
+- Scholarly trust and error/drift.
+- Copyrighted material access.
+
+Each is addressed in the above sections. 
 
 ## Milestone One Tech Stack
 - Website: Next.js + TypeScript.
@@ -152,11 +152,13 @@ Now, half a year later still, I just can't seem to get Doma out of my head, and 
 
 ### About Me
 
-I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time.
+I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. 
 
 My living costs are low, so all funds go directly into the work. 
 
 Email Me: akhil.muthyala@outlook.com
+
+PS: Just started learning Latin, but looks like I'm swapping to Ancient Greek :/.
 
  
 
