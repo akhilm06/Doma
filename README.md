@@ -1,18 +1,18 @@
-# Lacuna
+# Doma
 
 ## An open-source atlas of synthesized lost work profiles from classical antiquity. 
 
 Pre-alpha; seeking funding. 
 
-## What is Lacuna?
+## What is Doma?
 Most of ancient literature has been lost to history. For example, Aristotle wrote an estimated 200 works. We only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
 
 Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: TrGF). A useful analogy is the difference between a book on the industrial revolution and a Wikipedia article on it -- both serve useful functions, and are in fact complementary.
 
-Lacuna aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
+Doma aims to serve the latter functionality, harnessing modern software and AI-assisted workflows to transform fragments and scattered references of lost works into living profiles, all displayed alongside known works on an interactive node graph.
 
-## What Lacuna Isn't
-Lacuna is primarily a conceptual innovation enabled by technological innovation. It is not:
+## What Doma Isn't
+Doma is primarily a conceptual innovation enabled by technological innovation. It is not:
 - Reconstructions in the voice of authors.
 - Speculation presented as fact.
 - Replacement for specialist scholarship.
@@ -30,19 +30,19 @@ Lacuna is primarily a conceptual innovation enabled by technological innovation.
 - Ithaca, Aeneas, Vesuvius Challenge.
   - AI that restores lost text. 
 - Lost Plays Database.
-  - Lacuna’s closest analog. Lacuna applies its model to antiquity.
+  - Doma’s closest analog. Doma applies its model to antiquity.
 - Wikipedia.
   - Strong for famous lost works, otherwise sparse or nonexistent.
 
-None turn the evidence for antiquity's lost works into accessible, cited, living profiles. Lacuna does.
+None turn the evidence for antiquity's lost works into accessible, cited, living profiles. Doma does.
 
-## Old Lacuna
+## Old Doma (Lacuna)
 
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
 
 Screenshot from old basic prototype above (rebuild in progress). Consider it a stale artifact, and assume this repo as source of truth. 
 
-Old repo: https://github.com/akhilm06/Lacuna-OLD.
+Old repo: https://github.com/akhilm06/Lacuna.
 
 Old demo: https://lacuna-two.vercel.app/.
 
@@ -146,9 +146,9 @@ Coming Soon.
 
 ## About (written 10/31/2026)
 
-I came up with the concept for Lacuna about six months ago. I was listening to some podcast, and offhand, the host or guest mentioned how the majority of ancient literature has been lost to history. This induced a deep level of sadness within me, and, as I continued to dwell on that feeling, it bloomed into the concept for Lacuna. 
+I came up with the concept for Doma about six months ago. I was listening to some podcast, and offhand, the host or guest mentioned how the majority of ancient literature has been lost to history. This induced a deep level of sadness within me, and, as I continued to dwell on that feeling, it bloomed into the concept for Doma. 
 
-Now, half a year later still, I just can't seem to get Lacuna out of my head, and I'd like to dedicate a portion of my youth working on a project that contributes something of real intellectual value.  
+Now, half a year later still, I just can't seem to get Doma out of my head, and I'd like to dedicate a portion of my youth working on a project that contributes something of real intellectual value.  
 
 ### About Me
 
