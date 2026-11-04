@@ -124,9 +124,10 @@ Old demo: https://lacuna-two.vercel.app/.
 Each is addressed in the above sections. 
 
 ## Milestone One Tech Stack
-- Website: Next.js + TypeScript.
-- Data: JSON files in repo, with Zod validation.
+- Data: JSON files in git.
+- Schema: Pydantic.
 - Pipeline: Python + Claude API.
+- Site: Next.js + TypeScript.
 - Hosting: Vercel.
 
 ## Built On
@@ -159,7 +160,5 @@ My living costs are low, so all funds go directly into the work.
 Email Me: akhil.muthyala@outlook.com
 
 PS: Just started learning Latin, but looks like I'm swapping to Ancient Greek :/.
-
-i use omarchy btw
 
 
