@@ -4,6 +4,8 @@
 
 δῶμα -- Ancient Greek for house.
 
+Docs -- [design](DESIGN.md), [methodology](METHODOLOGY.md)
+
 > pre-alpha: seeking funding.
 
 ```
@@ -18,7 +20,7 @@
 │              ╲          ╱                                                    │
 │       ● ─ ─ ─ ○────────○                      ┌────────────────────────────┐ │
 │               │         ╲                     │ Myrmidons                  │ │
-│               │          ● ─ ─ ●              │ ghost work · Aeschylus     │ │
+│               │          ● ─ ─ ●              │ attested · Aeschylus       │ │
 │          ●    │                               │ ────────────────────────── │ │
 │           ╲   ○                  ●            │                            │ │
 │            ╲ ╱ ╲                ╱             │                            │ │
@@ -83,9 +85,9 @@ doma does, built on top of a novel open data layer and concordance table that su
 
 | Lost work type | Title   | Author  |
 |----------------|---------|---------|
-| Ghost work     | known   | known   |
-| Orphan work    | known   | unknown |
-| Stray work     | unknown | known   |
+| Attested       | known   | known   |
+| Orphaned       | known   | unknown |
+| Strayed        | unknown | known   |
 | Adespota       | unknown | unknown |
 
 ## Lost Work Profile Synthesis

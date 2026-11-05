@@ -41,7 +41,7 @@ Borrow the feeling, never the imagery. No space visuals.
 │              ╲          ╱                                                    │
 │       ● ─ ─ ─ ○────────○                      ┌────────────────────────────┐ │
 │               │         ╲                     │ Myrmidons                  │ │
-│               │          ● ─ ─ ●              │ ghost work · Aeschylus     │ │
+│               │          ● ─ ─ ●              │ attested · Aeschylus       │ │
 │          ●    │                               │ ────────────────────────── │ │
 │           ╲   ○                  ●            │                            │ │
 │            ╲ ╱ ╲                ╱             │                            │ │
