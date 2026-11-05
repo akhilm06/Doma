@@ -4,7 +4,7 @@
 
 δῶμα -- Ancient Greek for house.
 
-Docs -- [design](DESIGN.md), [methodology](METHODOLOGY.md).
+Docs -- [methodology](METHODOLOGY.md), [design](DESIGN.md), [choices](CHOICES.md).
 
 > pre-alpha: seeking funding.
 
@@ -136,7 +136,7 @@ Each is addressed in [methodology](METHODOLOGY.md).
 - Data: CC BY-SA 4.0
 
 ## Contributing
-Coming Soon. 
+See [contributing](CONTRIBUTING.md).
 
 ## About (written 10/31/2026)
 

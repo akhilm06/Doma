@@ -2,7 +2,7 @@
 
 ## Further Context
 - Always read README.md.
-- Working technically: also read METHODOLOGY.md.
+- Working on something technical: also read METHODOLOGY.md.
 - Working on visual design or user experience: also read DESIGN.md.
 - Both: read both.
 
