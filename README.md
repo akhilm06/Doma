@@ -93,32 +93,24 @@ doma does, built on top of a novel open data layer and concordance table that su
 ## Methodology
 See [methodology](METHODOLOGY.md).
 
-## Roadmap 
+## Roadmap
 - Milestone one (minimum lovable product):
   - Month one (data foundations):
-    - Schema, evidence taxonomy, source provenance.
-    - Evidence ingestion, deduplication, and evaluation workflow.
-    - Research and read. Gather set of hand-picked evidence. Establish written culture.
-    - Craft user experience, brand, value propositions, product thinking, et cetera.
-    - Run outreach on classicists for advisor role and join community. 
-    - Deliverable: working data set and public methodology document. 
+    - Deliverable: working data set and public methodology document.
+    - Scope: sections Sourcing and Copyright through Initial Ingestion, within [methodology](METHODOLOGY.md).
   - Month two (profile synthesis):
-    - Profile synthesis workflow: structure/sections, decision log, forced citations, et cetera.
-    - Stable, citable versions.
-    - Evaluations.
-    - Deliverable: Aeschylus's profiles and published evaluation results. 
+    - Deliverable: Aeschylus's profiles and published evaluation results.
+    - Scope: section Lost Work Node and Profile Synthesis, within [methodology](METHODOLOGY.md).
   - Month three (ING and launch):
-    - Build the interactive node graph.
-    - Add search, filter, and error flag functionality.
-    - Explainer video and documents.
-    - Launch on Hacker News, LessWrong, et cetera.
+    - Deliverable: public alpha covering Aeschylus.
+    - Scope: implement the design, within [design](DESIGN.md).
   - Concurrently:
-    - Run outreach on professors, teachers, provide simple lesson plan.
-    - Continue to iterate on previously implemented features.
+    - Research and develop domain knowledge.
+    - Run outreach on classicists for advisor role and join community.
+    - Continue to iterate on and refine features and concepts.
     - Learn Ancient Greek.
-  - Milestone one deliverable: public alpha covering Aeschylus.
 - Milestone two:
-  - Milestone two deliverable: public alpha covering all three tragedians.
+  - Deliverable: public alpha covering all three tragedians.
 - Future deliverables:
   - Timeline and shelf format.
   - Frames: preset filters of ING users can explore.
