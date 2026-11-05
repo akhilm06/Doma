@@ -124,8 +124,8 @@ See [methodology](METHODOLOGY.md).
 Each is addressed in [methodology](METHODOLOGY.md). 
 
 ## License
-- Code: MIT
-- Data: CC BY-SA 4.0
+- Code: [MIT](LICENSE)
+- Data: [CC BY-SA 4.0](LICENSE-DATA)
 
 ## Contributing
 See [contributing](CONTRIBUTING.md).
