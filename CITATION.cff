@@ -1,1 +1,6 @@
-
+cff-version: 1.2.0
+message: "If you use doma, please cite it as below."
+title: "doma: an open-source atlas of lost works from classical antiquity"
+authors:
+  - given-names: Akhil
+    family-names: Muthyala
