@@ -5,7 +5,7 @@
 ## Analogies
 - doma is an observatory: discovery, melancholy, beauty. 
 - doma is a spaceship: play, data, wonder. 
-- doma is an atlas: perspective, order, trust.
+- doma is an atlas: perspective, precision, trust.
 
 Borrow the feeling, never the imagery. No space visuals. 
 *Never kitsch.*
