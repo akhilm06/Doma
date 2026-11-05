@@ -4,7 +4,7 @@
 
 δῶμα -- Ancient Greek for house.
 
-Docs -- [design](DESIGN.md), [methodology](METHODOLOGY.md)
+Docs -- [design](DESIGN.md), [methodology](METHODOLOGY.md).
 
 > pre-alpha: seeking funding.
 
@@ -90,27 +90,8 @@ doma does, built on top of a novel open data layer and concordance table that su
 | Strayed        | unknown | known   |
 | Adespota       | unknown | unknown |
 
-## Lost Work Profile Synthesis
-- Profiles are written to be deliberately dry and encyclopedic, like Wikipedia, with an uncertainty system. 
-- Profiles include introductions, concepts, contested, et cetera. Profile length scales with evidence. Thin profiles are celebrated.  
-- Profiles include terse interpretation sections, drawn from a holistic understanding of the work, and surrounding context drawn from Wikipedia.
-  - Apart from interpretation and context, profiles draw solely from hard evidence.
-- Profile generation includes forced citations for every claim and a verification loop.
-- Profiles include transparent decision log, used both by human and AI (see data backbone).
-
-## Data Backbone
-- Quellenforschung is a centuries-old field dedicated to source tracing. I don't expect to have an immediate, neat answer.
-- Each piece of evidence carries license, taxonomy, provenance, and rubric scoring.
-- Scoring includes transparent decision log, used both by human and AI.
-  - Decision logs record written justifications of any informed choice with links to relevant evidences.
-  - When necessary, decision logs additionally consult and cite Wikipedia articles for germane historical context, while also evaluating and pointing to the origin of that claim, rather than relying solely on model training data.
-  - Decisions can be flagged for human review.
-
-## Sourcing and Copyright
-- Evidence is curated and entered by hand. AI-drafted fields are confirmed by a human.
-- Evidence is sourced solely from public-domain and openly licensed material.
-- Modern editions (for example: Radt, TrGF) are used as an index for sourcing evidence. They are cited, not reproduced.
-- Translations are public domain where available. Otherwise machine-assisted and labeled as such.
+## Methodology
+See [methodology](METHODOLOGY.md).
 
 ## Roadmap 
 - Milestone one (minimum lovable product):
@@ -148,22 +129,7 @@ doma does, built on top of a novel open data layer and concordance table that su
 - Scholarly trust and error/drift.
 - Copyrighted material access.
 
-Each is addressed in the above sections. 
-
-## Milestone One Tech Stack
-- Data: one JSON file per record, in git.
-- Schema: Pydantic.
-- Pipeline: Python + Claude API. Managed with uv, linted with ruff, tested with pytest.
-- Site: Python + Jinja2 (static).
-- Hosting: static, host-independent.
-
-## Built On
-- Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
-- Public-domain fragment editions (Nauck, Pearson, Smyth).
-- Perseus Digital Library and First1KGreek.
-- papyri.info.
-- CLTK (Classical Language Toolkit).
-- sigma.js + graphology.
+Each is addressed in [methodology](METHODOLOGY.md). 
 
 ## License
 - Code: MIT

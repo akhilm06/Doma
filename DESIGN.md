@@ -29,35 +29,7 @@ Borrow the feeling, never the imagery. No space visuals.
 
 ## UI Concept 
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ doma   graph   library   method                                     settings │
-├──────────────────────────────────────────────────────────────────────────────┤
-│ Aeschylus:                                    ┌────────────────────────────┐ │
-│ 70-90 plays written. 7 survive.               │ search works…              │ │
-│                                               └────────────┬─────────┬─────┘ │
-│            ●                                               │ filters │       │
-│             ╲            ●                                 └─────────┘       │
-│              ╲          ╱                                                    │
-│       ● ─ ─ ─ ○────────○                      ┌────────────────────────────┐ │
-│               │         ╲                     │ Myrmidons                  │ │
-│               │          ● ─ ─ ●              │ attested · Aeschylus       │ │
-│          ●    │                               │ ────────────────────────── │ │
-│           ╲   ○                  ●            │                            │ │
-│            ╲ ╱ ╲                ╱             │                            │ │
-│             ●   ○─ ─ ─ ─ ─ ─ ─ ○              │                            │ │
-│                                 ╲             │                            │ │
-│                 ●                ●            │                            │ │
-│                                               │       Content here.        │ │
-│ ┌────────────────────┐                        │                            │ │
-│ │                    │                        │                            │ │
-│ │     Key here.      │                        │                            │ │
-│ │                    │                        │                            │ │
-│ │                    │                        │                            │ │
-│ └────────────────────┘                        └────────────────────────────┘ │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+See the concept sketch at the top of [README](README.md).
 
 - General:
   - Thin top bar that top left contains logo, then pages. Right side has binary toggles or drop downs.
@@ -68,6 +40,7 @@ Borrow the feeling, never the imagery. No space visuals.
   - Known works: olive green with a solid border.
   - Lost works: pale blue with a dashed border.
   - Edges visually linked.
+  - Edges are clickable within the profile as links.
   - Top right: search bar with tab that pulls down for filters. 
   - Beneath search bar: where profile content is displayed. Click node to activate. 
   - Bottom left: key. 
