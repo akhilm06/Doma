@@ -159,7 +159,7 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 
 I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. 
 
-My living costs are low, so all funds go directly into the work. 
+My living costs are low (zero, live with my parents :)), so all funds go directly into the work. 
 
 Email Me: akhil.muthyala@outlook.com
 
@@ -167,8 +167,8 @@ PS: Just started learning Latin, but looks like I'm swapping to Ancient Greek :/
 
 ### What I'm Up To Right Now (11/05/2026)
 
-- Will begin to apply for grants within a week.
-- Reading Scribes and Scholars.
+- Applying for grants (main focus).
+- Reading *Scribes and Scholars* and *History of Classical Scholarship*.
 - Learning Ancient Greek.
 - Learning about contemporary tools and approaches. 
 - Brushing up on specific technical skills. 
