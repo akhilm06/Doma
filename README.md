@@ -124,11 +124,11 @@ Old demo: https://lacuna-two.vercel.app/.
 Each is addressed in the above sections. 
 
 ## Milestone One Tech Stack
-- Data: JSON files in git.
+- Data: one JSON file per record, in git.
 - Schema: Pydantic.
-- Pipeline: Python + Claude API.
-- Site: Next.js + TypeScript.
-- Hosting: Vercel.
+- Pipeline: Python + Claude API. Managed with uv, linted with ruff, tested with pytest.
+- Site: Python + Jinja2 (static).
+- Hosting: static, host-independent.
 
 ## Built On
 - Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
@@ -136,7 +136,7 @@ Each is addressed in the above sections.
 - Perseus Digital Library and First1KGreek.
 - papyri.info.
 - CLTK (Classical Language Toolkit).
-- react-force-graph.
+- sigma.js + graphology.
 
 ## License
 - Code: MIT

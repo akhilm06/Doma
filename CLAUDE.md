@@ -13,11 +13,11 @@ Doma is an open-source atlas of lost works from classical antiquity. Doma transf
 - Intuitive and delightful user experience. 
 
 ## Stack
-- Data: JSON files in git.
-- Schema: Pydantic, the single source of truth.
+- Data: one JSON file per record, in git.
+- Schema: Pydantic.
 - Pipeline: Python + Claude API. Managed with uv, linted with ruff, tested with pytest.
-- Site: Next.js + TypeScript.
-- Hosting: Vercel.
+- Site: Python + Jinja2 (static).
+- Hosting: static, host-independent.
 
 ## Constraints
 - Every product decision is upstream of deserving scholarly trust. Doma is rigorous and conservative: when in doubt, choose correctness over speed or novelty.
