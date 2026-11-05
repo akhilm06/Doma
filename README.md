@@ -165,4 +165,11 @@ Email Me: akhil.muthyala@outlook.com
 
 PS: Just started learning Latin, but looks like I'm swapping to Ancient Greek :/.
 
+### What I'm Up To Right Now (11/05/2026)
 
+- Will begin to apply for grants within a week.
+- Reading Scribes and Scholars.
+- Learning Ancient Greek.
+- Learning about contemporary tools and approaches. 
+- Brushing up on specific technical skills. 
+- Iterating on doma concept.  
