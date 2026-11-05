@@ -15,6 +15,21 @@ Let's work our way up.
 - Prioritize ultra simplicity and robustness and versatility. No clever implementations.
 - Human in the loop: doma believes humans and artificial intelligences serve unique complementary functions, and harnesses the ability of both. Specialist humans have authority over AI.
 
+## Milestone One Tech Stack
+- Data: one JSON file per record, in git.
+- Schema: Pydantic.
+- Pipeline: Python + Claude API. Managed with uv, linted with ruff, tested with pytest.
+- Site: Python + Jinja2 (static).
+- Hosting: static, host-independent.
+
+## Built On
+- Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
+- Public-domain fragment editions (Nauck, Pearson, Smyth).
+- Perseus Digital Library and First1KGreek.
+- papyri.info.
+- CLTK (Classical Language Toolkit).
+- sigma.js + graphology.
+
 ## Sourcing and Copyright
 - Evidence is curated by human hand.
 - Evidence is sourced solely from public-domain and openly licensed material.
@@ -67,18 +82,3 @@ Let's work our way up.
 - A verification loop checks that every claim is supported by its cited evidence.
 - The loop runs for a maximum number of rounds. Claims still unsupported are flagged for human review.
 - Verification status is recorded per claim, with the model and date that ran it.
-
-## Milestone One Tech Stack
-- Data: one JSON file per record, in git.
-- Schema: Pydantic.
-- Pipeline: Python + Claude API. Managed with uv, linted with ruff, tested with pytest.
-- Site: Python + Jinja2 (static).
-- Hosting: static, host-independent.
-
-## Built On
-- Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
-- Public-domain fragment editions (Nauck, Pearson, Smyth).
-- Perseus Digital Library and First1KGreek.
-- papyri.info.
-- CLTK (Classical Language Toolkit).
-- sigma.js + graphology.
