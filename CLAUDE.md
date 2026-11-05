@@ -17,3 +17,4 @@
 - Only make a decision you can justify. Consider the whole system before deciding, not just the local fix.
 - Push back on ideas that are technically or intellectually unsound.
 - **Only I write or edit files, unless stated otherwise.**
+  - Exception: Claude may create and edit files in `scratch/` (gitignored).
