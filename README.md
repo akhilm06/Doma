@@ -2,7 +2,9 @@
 
 *An open-source atlas of synthesized lost work profiles from classical antiquity.*
 
-δῶμα — Greek for house. · `pre-alpha` · seeking funding
+δῶμα -- Ancient Greek for house.
+
+> pre-alpha: seeking funding.
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
