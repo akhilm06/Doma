@@ -6,6 +6,7 @@ Doma is an open-source atlas of lost works from classical antiquity. Doma transf
 ## Further Context
 - README.md: vision, roadmap, related work.
 - METHODOLOGY.md: read before any change to schema, evidence, scoring, or synthesis.
+- DESIGN.md: read before any change to visual design, layout, or the ING.
 
 ## Philosophy
 - Accessibility to non-specialists.
